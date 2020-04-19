@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://domain.tld
+url:                   https://ed-moneybrain.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -19,18 +19,18 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 지옥훈런
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
+  선선한 바람을 맞으며 뛰고 싶은가?
+  방에만 앉아있는 이 순간 답답함을 느끼는가?
+  당장 집밖으로 나와서 사람들과 함께 뛰어라!
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Best Jekyll Theme by a Mile".
-  Open `_config.yml` to edit this text.
+  "Best way to get over COVID-19 is to run".
 
 # A list of keywords for your blog
 keywords:              []
@@ -49,13 +49,13 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Hydejack
+  - title:             멤버
     url:               /hydejack/
-  - title:             Hyde
+  - title:             모임 일정
     url:               /hyde/
-  - title:             Documentation
+  - title:             자유게시판
     url:               /docs/
-  - title:             About
+  - title:             모임 사진
     url:               /about/
 
 # Add links to the footer.
