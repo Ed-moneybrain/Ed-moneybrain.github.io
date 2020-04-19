@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Basics
+title: 모임 사진
 description: >
   This chapter covers the basics of content creation with Hydejack.
 hide_description: true

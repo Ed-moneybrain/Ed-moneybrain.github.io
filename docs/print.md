@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Documentation
+title: 멤버
 redirect_from:
   - /docs/latest/print/
   - /docs/print/

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 모임 일정
 permalink: /about/
 ---
 
